@@ -1,4 +1,4 @@
-# 2020-10-07-git_collab-dan
+# 20201007-git_collab-zetaceti
 Git collaboration
 
 - `git clone <URL>`: downloads the repo from the URL to your computer
